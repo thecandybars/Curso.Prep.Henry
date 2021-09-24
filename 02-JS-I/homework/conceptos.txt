@@ -1,0 +1,17 @@
+VARIABLES
+Las variables son contenedores de información. Se pueden pensar como cajones donde podemos almacenar un dato.
+Este dato puede ser un numero, un texto o un valor binario. Cada variable tiene su propio nombre y contiene solamente
+un dato. Para acceder a este dato (a la información) se utiliza el nombre de la variable : es como poner una etiqueta
+en la tapa del cajón donde almacenamos la información : para acceder a la información que necesitamos, abrimos el cajón marcado con la etiqueta correspondiente.
+
+STRINGS
+Son cadenas de texto. Es un tipo de dato que puede contener caracteres alfanuméricos.
+
+FUNCIONES
+Son un conjunto de instrucciones que cumplen una tarea (función) específica. Cada función tiene su propio nombre, para poder abrirla (llamarla) cuando se necesite cumplir con la tarea para la que fue creada.
+
+DECLARACIÓN IF
+Sirve para realizar tareas diferentes en base a una toma de decisiones : la delaración IF evalúa una condición, y en base a la respuesta realiza una u otra acción.
+
+VALORES BOOLEANOS
+Almacenan la información más básica posible : si algo ES o NO ES. Por ejemplo, sirve para reconocer si algo está encendido o apagado, o si una declaración es verdadera o falsa.
