@@ -1,0 +1,11 @@
+FOR
+La declaración FOR sirve para ejecutar un grupo de instrucciones repetidamente, en bucle, por una cierta cantidad de veces. Para llevar la cuenta y saber cuando terminar el bucle, se debe declarar una variable, una condicion de finalización del bucle y un incremento de la variable.
+
+&&
+Es un operador logico correspondiente a la operación AND y que actua sobre dos sentencias. Al ser un operador lógico tiene solo dos posibles valores de entrada y de salida (true o false). La operación && devuelve true solo cuando ambos valores de entrada son true; de lo contrario devuelve false.
+
+||
+Otro operador logico, correspondiente a la operación OR. Devuelve true cuando almenos uno de sus valores de entrada es true; por consiguiente solo devuelve flase cuando ambas entradas son false
+
+!
+Operados logico, equivale a NOT o negación. Invierte el valor de la sentencia a la que está asociada : si es true, devuelve false; si es false, devuelve true.
