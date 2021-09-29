@@ -1,0 +1,4 @@
+ARRAYS
+Los arrays o matrices o arreglos son un tipo de variable que permite almacenar varios datos (en lugar de uno solo, como lo
+hacen las variables convencionales tipo STRING, NUMBER o BOOLEAN). Cada valor almacenado en un array se identifica con un
+numero (llamado indice), que comienza desde el 0 para el primer valor, y sigue de modo ascendente.
