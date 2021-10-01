@@ -1,0 +1,21 @@
+OBJETOS
+Son contenedores de información que pueden contener varios datos relacionados. A diferencia de los ARRAYS, los
+objetos no tienen un indice para acceder a las datos, más bien nombran cada dato: estos nombres son llamados 
+propiedades. 
+La ventaja de los OBJETOS
+sobre los ARRAYS es que pueden contener tipos de datos diferentes, combiando strings, numeros, booleans, arrays y
+hasta otros objetos dentro del mismo objeto.
+
+PROPIEDADES
+Contienen la información almacenada en los objetos, y corresponden al nombre de una variable dentro del objeto.
+
+METODOS
+Son funciones definidas dentro del objeto. Pueden realizar acciones sobre las propiedades mismas del objeto, o utilizando sus valores.
+
+BUCLE FOR-IN
+Es un tipo de bucle FOR que se usa para iterar sobre todas las propiedades de un objeto
+
+NOTACION
+Para acceder a los valores de las propiedades de un objeto se pueden usar dos notaciones diferentes:
+	* Punto : se escriben el objeto y la propiedad separadas por un punto. Ej : valor = objeto.propiedad
+	* Corchetes : el nombre de la propiedad es un string encerrado en corchetes. Ej : valor = objeto["nombreDeLaPropiedad"]
