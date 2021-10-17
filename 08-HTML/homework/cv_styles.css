@@ -1,0 +1,44 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+	font-family: 'Roboto', sans-serif;
+  background-color: #ffe3cc;
+}
+
+.titulo h1 {
+  padding: 20px 0;
+  text-align: center;
+  font-size: 2.5em;
+    margin: 10px 0px;
+  padding: 10px;
+  background-color: black;
+  color: white;
+}
+
+.contenedor {
+  /*display: inline;*/
+  background-color: white;
+  width: 90%;
+  max-width: 1000px;
+  margin: 1.5em auto;
+}
+
+h2 {
+  margin: 10px 0px;
+  padding: 10px;
+  background-color: black;
+  color: white;
+}
+
+.descripcion {
+  float:  left;
+  width: 60%;
+  padding: 10px;
+}
+
+li {
+	margin: 20px;
+}
